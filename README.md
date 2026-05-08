@@ -24,7 +24,7 @@ Before running the project, ensure you have the following installed:
  📦 **Installation & Setup**
 1. Clone the Project:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AYUSH1312-e/Intrusion-Detection-System.git
 
 2. Install Dependencies:
 ```bash
