@@ -1,0 +1,21 @@
+# Database and local logs
+ids_logs.db
+*.log
+
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and distribution files
+dist/
+build/
+*.egg-info/
